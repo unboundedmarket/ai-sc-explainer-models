@@ -1,9 +1,9 @@
-# LLM Cardano Smart Contracts Explainer
+# AI Explainer Models
 
-Welcome to the **UnboundedMarket Cardano Smart Contracts Explainer**!  
+Welcome to the **AI Explainer Models**!  
 This repository hosts our language models fine-tuned to explain Cardano smart contracts.
 
-For details about the interface for visualizing and browsing the repositories, visit:  
+For details about the interface for visualizing and browsing the contracts, visit:  
 [**AI Smart Contract Explainer Interface**](https://github.com/unboundedmarket/ai-sc-explainer-interface).  
 
 ## Overview
@@ -26,8 +26,8 @@ The fine-tuning was performed on a dateset of Cardano smart contracts using [Axo
 Clone this repository:
 
 ```bash
-git clone https://github.com/unboundedmarket/llm-sc-explainer-models.git
-cd llm-sc-explainer-models
+git clone https://github.com/unboundedmarket/ai-sc-explainer-models.git
+cd ai-sc-explainer-models
 ```
 
 ### Install Dependencies
